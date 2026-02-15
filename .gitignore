@@ -3,3 +3,6 @@ __pycache__/
 .venv/
 output/
 .claude/
+build/
+dist/
+*.spec
